@@ -15,7 +15,7 @@ Airbnb assesses whether a host has met the Superhost criteria once every three m
 Airbnb uses specific “evaluation periods” to assess whether hosts have met the Superhost certification criteria. The three-month evaluation periods begin on January 1st, April 1st, July 1st, and October 1st. Each host’s Superhost status is reevaluated at the beginning of the subsequent evaluation period, usually within 10 days of the start of the evaluation period (i.e., for a January 1st evaluation period, each host’s status is adjusted, if necessary, by January 10th).
 
 # Analysis Overview
-In the Platform business model of AirBnB, there two players, the hosts that list their properties on the platform, and the customers that book these properties. In our analysis we focus on empowering hosts to qualify as superhosts, and optimize their listings and earnings. Read the project report here
+In the Platform business model of AirBnB, there two players, the hosts that list their properties on the platform, and the customers that book these properties. In our analysis we focus on empowering hosts to qualify as superhosts, and optimize their listings and earnings. [Read the project report here] ()
 
 1. Checked if being a superhost helps in any way ? Increased revenues, bookings ?
    
