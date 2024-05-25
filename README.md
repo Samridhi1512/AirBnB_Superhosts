@@ -1,4 +1,4 @@
-# AirBnB_Superhosts
+# AirBnB Chicago_Business Strategy_Superhosts
 # Project description
 The goal of the project is to get a hands-on experience in executing a real project. We go through the whole iterative process of problem identification, data collection, data exploration, model specification, data analyses, model evaluation and testing, result interpretation, and presentation.
 
